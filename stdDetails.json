@@ -1,0 +1,48 @@
+[
+	{
+		"id": 1,
+		"usn": "20BTRAN001",
+		"name": "Joey Kamala",
+		"email": "20btran001@jainuni.ac.in",
+		"branch": "Aerospace",
+		"semester": 7
+
+	},
+	{
+		"id": 2,
+		"usn": "20BTRAN040",
+		"name": "John Njia",
+		"email": "20btran040@jainuni.ac.in",
+		"branch": "Aerospace",
+		"semester": 7
+
+	},
+	{
+		"id": 3,
+		"usn": "21BTRCO023",
+		"name": "Annabela",
+		"email": "20btrco023@jainuni.ac.in",
+		"branch": "IOT",
+		"semester": 5
+
+	},
+	{
+		"id": 4,
+		"usn": "22BTRCM011",
+		"name": "Bella Malla",
+		"email": "20btrcm01@jainuni.ac.in",
+		"branch": "CTMA",
+		"semester": 3
+
+	},
+	{
+		"id": 5,
+		"usn": "23BTRDS001",
+		"name": "Milly Kamala",
+		"email": "20btrds01@jainuni.ac.in",
+		"branch": "Data science",
+		"semester": 3
+
+	}
+	
+]
