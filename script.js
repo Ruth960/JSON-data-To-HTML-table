@@ -5,15 +5,15 @@ fetch("stdDetails.json")
 .then(function(stdDetails){
    let placeholder = document.querySelector("#data-output");
    let out = "";
-   for(let stdDetails of stdDetails){
+   for(let stdDetail of stdDetails){
       out += `
          <tr>
-            <td>  ${stdDetails.id}</td>
-            <td> ${stdDetails.usn}</td>
-            <td>${stdDetails.name}</td>
-            <td>${stdDetails.email}</td>
-            <td>${stdDetails.branch}</td>
-            <td>${stdDetails.semester}</td>
+            <td>  ${stdDetail.id}</td>
+            <td> ${stdDetail.usn}</td>
+            <td>${stdDetail.name}</td>
+            <td>${stdDetail.email}</td>
+            <td>${stdDetail.branch}</td>
+            <td>${stdDetail.semester}</td>
          </tr>
       `;
    }
