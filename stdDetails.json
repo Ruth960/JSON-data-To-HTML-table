@@ -43,6 +43,42 @@
 		"branch": "Data science",
 		"semester": 3
 
+	},
+	{
+		"id": 6,
+		"usn": "22BTRDS007",
+		"name": "Jenifer Bells",
+		"email": "20btrds07@jainuni.ac.in",
+		"branch": "Data science",
+		"semester": 5
+
+	},
+	{
+		"id": 7,
+		"usn": "22BTRDS0012",
+		"name": "VP Naidu",
+		"email": "20btrco012@jainuni.ac.in",
+		"branch": "IOT",
+		"semester": 5
+
+	},
+	{
+		"id": 8,
+		"usn": "20BTRCS0037",
+		"name": "Avneet Maan",
+		"email": "20btrcs037@jainuni.ac.in",
+		"branch": "Computer Science",
+		"semester": 7
+
+	},
+	{
+		"id": 9,
+		"usn": "23BTRCT009",
+		"name": "Jenifer Bells",
+		"email": "20btrct009@jainuni.ac.in",
+		"branch": "CTIS",
+		"semester": 3
+
 	}
-	
+
 ]
